@@ -29,6 +29,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Proxy", "Proxy\Proxy.vcxpro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Template", "Template\Template.vcxproj", "{6B7FBA8E-91ED-4125-8087-7BA8E00EE8AB}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Strategy", "Strategy\Strategy.vcxproj", "{D7986FA0-438B-4E7E-A118-F327970C63CF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -141,6 +143,14 @@ Global
 		{6B7FBA8E-91ED-4125-8087-7BA8E00EE8AB}.Release|x64.Build.0 = Release|x64
 		{6B7FBA8E-91ED-4125-8087-7BA8E00EE8AB}.Release|x86.ActiveCfg = Release|Win32
 		{6B7FBA8E-91ED-4125-8087-7BA8E00EE8AB}.Release|x86.Build.0 = Release|Win32
+		{D7986FA0-438B-4E7E-A118-F327970C63CF}.Debug|x64.ActiveCfg = Debug|x64
+		{D7986FA0-438B-4E7E-A118-F327970C63CF}.Debug|x64.Build.0 = Debug|x64
+		{D7986FA0-438B-4E7E-A118-F327970C63CF}.Debug|x86.ActiveCfg = Debug|Win32
+		{D7986FA0-438B-4E7E-A118-F327970C63CF}.Debug|x86.Build.0 = Debug|Win32
+		{D7986FA0-438B-4E7E-A118-F327970C63CF}.Release|x64.ActiveCfg = Release|x64
+		{D7986FA0-438B-4E7E-A118-F327970C63CF}.Release|x64.Build.0 = Release|x64
+		{D7986FA0-438B-4E7E-A118-F327970C63CF}.Release|x86.ActiveCfg = Release|Win32
+		{D7986FA0-438B-4E7E-A118-F327970C63CF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
