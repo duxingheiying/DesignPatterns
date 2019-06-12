@@ -41,6 +41,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Mediator", "Mediator\Mediat
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Command", "Reciever.h\Reciever.h.vcxproj", "{6D6CC545-1813-4011-BCF2-16C92F602579}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Visitor", "Visitor\Visitor.vcxproj", "{A93DB1CD-B281-4718-BE9E-1D8E6D44CD61}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -201,6 +203,14 @@ Global
 		{6D6CC545-1813-4011-BCF2-16C92F602579}.Release|x64.Build.0 = Release|x64
 		{6D6CC545-1813-4011-BCF2-16C92F602579}.Release|x86.ActiveCfg = Release|Win32
 		{6D6CC545-1813-4011-BCF2-16C92F602579}.Release|x86.Build.0 = Release|Win32
+		{A93DB1CD-B281-4718-BE9E-1D8E6D44CD61}.Debug|x64.ActiveCfg = Debug|x64
+		{A93DB1CD-B281-4718-BE9E-1D8E6D44CD61}.Debug|x64.Build.0 = Debug|x64
+		{A93DB1CD-B281-4718-BE9E-1D8E6D44CD61}.Debug|x86.ActiveCfg = Debug|Win32
+		{A93DB1CD-B281-4718-BE9E-1D8E6D44CD61}.Debug|x86.Build.0 = Debug|Win32
+		{A93DB1CD-B281-4718-BE9E-1D8E6D44CD61}.Release|x64.ActiveCfg = Release|x64
+		{A93DB1CD-B281-4718-BE9E-1D8E6D44CD61}.Release|x64.Build.0 = Release|x64
+		{A93DB1CD-B281-4718-BE9E-1D8E6D44CD61}.Release|x86.ActiveCfg = Release|Win32
+		{A93DB1CD-B281-4718-BE9E-1D8E6D44CD61}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
